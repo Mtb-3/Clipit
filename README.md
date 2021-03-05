@@ -1,11 +1,13 @@
 # Clippers
-Simple text based widget to concantenate a a specific folder of video clips.
+Simple text based widget to concantenate a folder of video clips.
 
 ## Installation
 
-Option 1: Download .exe file 
+1. Download .py file 
 
-Option 2: Download .py file and required dependencies 
+2. Download required dependencies if not installed
+
+3. Install documentation can be found https://pypi.org/project/moviepy/ and https://pypi.org/project/PyQt5/
 
 ## Usage 
 
